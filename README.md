@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/anushiyasivakumarv/leetcode/tree/master/0049-group-anagrams) |
+| [0344-reverse-string](https://github.com/anushiyasivakumarv/leetcode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/anushiyasivakumarv/leetcode/tree/master/0593-valid-square) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/anushiyasivakumarv/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
