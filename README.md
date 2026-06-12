@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/anushiyasivakumarv/leetcode/tree/master/0049-group-anagrams) |
+| [0313-super-ugly-number](https://github.com/anushiyasivakumarv/leetcode/tree/master/0313-super-ugly-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0313-super-ugly-number](https://github.com/anushiyasivakumarv/leetcode/tree/master/0313-super-ugly-number) |
 | [0593-valid-square](https://github.com/anushiyasivakumarv/leetcode/tree/master/0593-valid-square) |
 ## Geometry
 |  |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/anushiyasivakumarv/leetcode/tree/master/0344-reverse-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0313-super-ugly-number](https://github.com/anushiyasivakumarv/leetcode/tree/master/0313-super-ugly-number) |
 <!---LeetCode Topics End-->
