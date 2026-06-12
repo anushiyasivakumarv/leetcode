@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/anushiyasivakumarv/leetcode/tree/master/0110-balanced-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/anushiyasivakumarv/leetcode/tree/master/0593-valid-square) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/anushiyasivakumarv/leetcode/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
